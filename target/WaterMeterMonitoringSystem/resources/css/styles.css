@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+
+
+
+.btnlogin {
+	color: white;
+	font-size: 100%;
+	background-color: green;
+	width: 85%;
+	height: 40px;
+}
+
+.btnsignup {
+	color: white;
+	font-size: 100%;
+	background-color: #cc0000;
+	width: 85%;
+	height: 40px;
+}
+
+.btnback {
+	color: white;
+	font-size: 100%;
+	background-color: #0000e6;
+	width: 85%;
+	height: 40px;
+}
+
+p {
+	width: 80%;
+	height: 30px;
+}
+
+.search {
+	font-size: 100%;
+	width: 40%;
+	 height: 26px; 
+}
+.searchbtn {
+	font-size: 100%;
+	width: 15%;
+	height: 30px;
+}
+.error{
+	
+	
+	color: red;
+	
+	
+}
+
+.header:link, header:visited {
+    background-color: #c0c0a5;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.header:hover, header:active {
+    background-color:  #e0e0d1;
+;
+}
+
+
+
+
+
+
+
+
+
